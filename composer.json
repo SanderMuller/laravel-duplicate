@@ -12,6 +12,7 @@
         "relations"
     ],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Andrei Badea",
